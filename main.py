@@ -47,3 +47,5 @@ def update():
 
 clock.schedule(time_up, 7.0)
 place_coin()
+
+# Use pgzrun main.py to play!
